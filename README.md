@@ -15,5 +15,5 @@ A simple WordPress plugin to manage and display project portfolios.
 3. Use the shortcode `[project_portfolio]` to display your projects.
 
 ## Usage
-[img]https://github.com/AhmedShaikh0/project-portfolio/blob/main/plugin-img.png[/img]
+https://github.com/AhmedShaikh0/project-portfolio/blob/main/plugin-img.png
 

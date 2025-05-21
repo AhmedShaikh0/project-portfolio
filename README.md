@@ -10,7 +10,7 @@ A simple WordPress plugin to manage and display project portfolios for personal 
 - Display project details on single project pages
 
 ## Installation
-1. Upload the plugin to your `/wp-content/plugins/` directory.
+1. Upload the project-portfolio.php file to your `/wp-content/plugins/` directory.
 2. Activate the plugin via the Plugins menu.
 3. Use the shortcode `[project_portfolio]` to display your projects.
 

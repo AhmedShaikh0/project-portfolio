@@ -1,6 +1,6 @@
-# Project Portfolio Plugin
+# Project Portfolio – WordPress Plugin
 
-A simple WordPress plugin to manage and display project portfolios for personal portfolio websites.
+Project Portfolio is a lightweight, user-friendly WordPress plugin that helps freelancers, agencies, developers, and creatives present their project portfolios in a professional and customizable way. With custom post types, detailed project metadata, an admin dashboard, and a built-in shortcode, displaying your work has never been easier.
 
 ## Features
 - Custom post type for Projects

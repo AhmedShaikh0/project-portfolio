@@ -3,6 +3,7 @@
 Plugin Name: Project Portfolio
 Description: Adds a custom post type for managing and displaying project portfolios.
 Author: Ahmed Shaikh
+GitHub: https://github.com/AhmedShaikh0
 */
 
 // Register the "Project" custom post type

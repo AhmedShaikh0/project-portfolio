@@ -19,3 +19,13 @@ Project Portfolio is a lightweight, user-friendly WordPress plugin that helps fr
 ![Image Alt Text](https://github.com/AhmedShaikh0/project-portfolio/blob/main/images/plugin-2.png)
 ![Image Alt Text](https://github.com/AhmedShaikh0/project-portfolio/blob/main/images/plugin-dashboard.png)
 
+##  Contribute
+Got ideas or improvements? Pull requests are welcome!
+Feel free to fork this project and enhance it further.
+
+1. Fork the repo
+2. Create your feature branch: `git checkout -b feature/your-feature`
+3. Commit your changes: `git commit -am 'Add new feature'`
+4. Push to the branch: `git push origin feature/your-feature`
+5. Open a pull request
+

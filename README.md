@@ -16,4 +16,6 @@ A simple WordPress plugin to manage and display project portfolios.
 
 ## Usage
 ![Image Alt Text](https://github.com/AhmedShaikh0/project-portfolio/blob/main/plugin-img.png)
+![Image Alt Text](https://github.com/AhmedShaikh0/project-portfolio/blob/main/plugin-2.png)
+![Image Alt Text](https://github.com/AhmedShaikh0/project-portfolio/blob/main/plugin-dashboard.png)
 
